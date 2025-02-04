@@ -4,6 +4,8 @@
 
 Projeto de um site para agendamento de horários em salões de beleza.
 
+![Screenshot](/src/assets/forGitHub.jpg)
+
 ## Descrição
 
 Este projeto permite que os usuários agendem horários em um salão de beleza, selecionando a data, horário e informando o nome do cliente. O sistema exibe os agendamentos do dia selecionado e permite o cancelamento dos mesmos.
